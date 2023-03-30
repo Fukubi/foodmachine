@@ -18,3 +18,9 @@ For the frontend you first need to install the dependencies and run after, that 
 npm install
 npm run dev
 ```
+
+## TODO
+
+- [ ] Secure API with JWT
+- [ ] Add login in frontend
+- [ ] Stylize more the frontend
