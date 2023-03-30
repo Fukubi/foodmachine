@@ -1,5 +1,7 @@
 # FoodingMachine
 
+![List_Window](https://raw.githubusercontent.com/Fukubi/foodmachine/main/images/List.png)
+
 A Spring Boot + React project that aims to develop a REST API using Spring Boot and Java 17 with a React + Vite Frontend
 
 ## How To Run
